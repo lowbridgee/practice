@@ -1,1 +1,0 @@
-{"rustc":1917907387507472122,"features":"[]","target":11307231540935320211,"profile":3756675567829990309,"deps":[["rand v0.3.22",11850075810111242009]],"local":[{"MtimeBased":[[1525524710,0],"/Users/Lowbridge/practice_workspace/rust-tutorial/guessing_game/target/debug/.fingerprint/guessing_game-b3e6335ffa2bfb5c/dep-test-bin-guessing_game-b3e6335ffa2bfb5c"]}],"rustflags":[]}
